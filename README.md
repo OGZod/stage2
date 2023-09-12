@@ -1,16 +1,15 @@
-# task_1
+# Stage_2
 
-A new Flutter project.
+Mobile CV Application.
 
-## Getting Started
+## Description
+Consist of two screens.
+First screen displays CV details and has an edit button which takes you to 
+the second screen where edits are being made on any or all of the CV details.  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## How to run the app 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+First clone the repository by running ```https://github.com/OGZod/stage2.git``` <br />
+Then in the project run ```flutter pub get``` <br />
+Then ```flutter run``` <br />
